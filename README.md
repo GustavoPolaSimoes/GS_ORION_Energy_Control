@@ -131,28 +131,6 @@ Quando uma situação crítica é identificada, o sistema recomenda ações como
 
 ---
 
-## Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone LINK_DO_REPOSITORIO
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd aurora-energy-control
-```
-
-3. Execute o programa:
-
-```bash
-python main.py
-```
-
----
-
 ## Exemplo de Saída
 
 ```txt
